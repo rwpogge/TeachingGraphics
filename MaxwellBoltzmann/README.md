@@ -1,3 +1,3 @@
 # Maxwell-Boltzmann Distribution
 
-Test using subfolders
+A suite of notebooks for working with the Maxwell-Boltzmann distribution for gases.
