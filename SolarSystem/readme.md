@@ -19,7 +19,7 @@ notebooks use a Newton-Raphson root finder to solve Kepler's equations to draw t
 More technical views for advanced classes.
 
  * `Kirkwood Gaps.ipynb` - histogram showing the Kirkwood gaps in the asteroid belt with Jupiter mean-motion resonance lines plotted.
- * `Asteroid Groups.ipynb' - Plots of eccentricty and inclination vs. semimajor axis for asteroids showing resonances and Mars aphelion interaction
+ * `Asteroid Groups.ipynb` - Plots of eccentricty and inclination vs. semimajor axis for asteroids showing resonances and Mars aphelion interaction
  * `TNOs_aePlot.ipynb` - Plot of eccentricty vs. semimajor axis for TNOs plotting lines of constant perihelion showing resonances and scattered objects
  * `Jupiter_Tisserand.ipynb` - Jupiter Tisserand parameter for asteroids and Jupiter-family comets
  * `Neptune_Tisserand.ipynb` - Neptune Tisserand parameter for TNOs and short-period comets
