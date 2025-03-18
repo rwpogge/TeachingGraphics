@@ -1,8 +1,13 @@
-# ast2291
-Notebooks for teaching Astronomy 2291 and 2292
+# Astronomy Teaching Graphics
+Jupyter notebooks and code to create astronomy teaching graphics for all levels from gen-ed to graduate courses
 
-Not much to see here, this where
- * I provide direct links to Jupyter notebooks that students can download and run on their own computers, sometimes with ancillary data
- * A sandbox where I am experimenting with Binder. Those are not ready for primetime, don't go there unless directed to
+Just starting out migrating my many folders with many graphics into a single repository, and developing a uniform
+style for the graphics.
 
-Jeans Escape: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rwpogge/ast2291/HEAD?labpath=jeansEscape.ipynb)
+Uses Jupyter and Python with `matplotlib` for creating the graphics
+
+## Graphics
+
+## Dependencies
+
+more?
