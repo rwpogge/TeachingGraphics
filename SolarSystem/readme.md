@@ -24,3 +24,5 @@ More technical views for advanced classes.
  * `Jupiter_Tisserand.ipynb` - Jupiter Tisserand parameter for asteroids and Jupiter-family comets
  * `Neptune_Tisserand.ipynb` - Neptune Tisserand parameter for TNOs and short-period comets
  * `Stern-Levison_Lambda.ipynb` - Plot of the Stern-Levison Lambda parameter for distinguishing major and dwarf planets.
+ * `Jupiter_Trojans_Hildas_movie.ipynb` - Create still frames of Jupiter Trojans and Hildas for 1 full Jupiter orbit (plus inner planets) to later combine into a movie
+
