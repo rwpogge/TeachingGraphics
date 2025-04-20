@@ -34,7 +34,7 @@ Plots demonstrating the Maxwell-Boltzmann distribution for gasses and Jeans Esca
 
 ### Climate
 
-Plots demonstrating the Maxwell-Boltzmann distribution for gasses and Jeans Escape.
+Plots of atmospheric CO2 and CH4 concentrations, global temperature anomaly, and mean sealevel trends from NOAA and NASA public databases. 
 
 ## Dependencies
 
