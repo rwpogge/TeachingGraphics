@@ -1,8 +1,9 @@
 # Astronomy Teaching Graphics
 Jupyter notebooks and code to create astronomy teaching graphics for all levels from gen-ed to graduate courses
 
-Just starting out migrating my many folders with many graphics into a single repository, and developing a uniform
-style for the graphics.
+A work in progress, I started migrating my many folders of graphics into a single repository in Spring 2025.  
+I've developed a uniform style for the graphics notebook coding based on my experience creating the graphics
+for the Ohio State Astrophysics Series of graduate textbooks for Cambridge University Press.
 
 Uses Jupyter and Python with `matplotlib` for creating the graphics
 
