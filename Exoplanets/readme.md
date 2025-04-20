@@ -2,7 +2,7 @@
 
 Plot exoplanet properties.
 
-We try to make these self-contained by using `astroquery` to retrieve data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/), and
+We try to make these self-updating by using `astroquery` to retrieve data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/), and
 include files for selected solar system bodies and main sequence stars that won't update frequently (if at all)
 
 ## Notebooks
