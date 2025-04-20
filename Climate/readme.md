@@ -1,7 +1,7 @@
 # Plot current NOAA and NASA data
 
-Plots of atmospheric CO2, CH4, global temperature anomal, and mean sealevel trends from NOAA and NASA public databases. See specific notes below for each
-notebook.
+Plots of atmospheric CO2 and CH4 concentrateions, global temperature anomaly, and mean sealevel trends from NOAA and NASA public databases. 
+See specific notes below for each notebook for sources and data files.
 
 ## Notebooks
 
