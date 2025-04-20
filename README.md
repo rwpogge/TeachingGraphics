@@ -25,7 +25,7 @@ ready to be combined into an animation of that motion using tools like `ffmpeg`.
 
 ## Exoplanets
 
-Exoplanet properties plots.  Uses `astroquery` to retrieve the latest data from the NASA Exoplanet Archive (https://exoplanetarchive.ipac.caltech.edu/).
+Exoplanet properties plots.  Uses `astroquery` to retrieve the latest data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).
 
 ## Dependencies
 
