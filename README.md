@@ -32,6 +32,10 @@ Exoplanet properties plots.  Uses `astroquery` to retrieve the latest data from 
 
 Plots demonstrating the Maxwell-Boltzmann distribution for gasses and Jeans Escape.
 
+### Climate
+
+Plots demonstrating the Maxwell-Boltzmann distribution for gasses and Jeans Escape.
+
 ## Dependencies
 
 Written and tested with Python 3.12 (Anaconda distro), using the following packages.
