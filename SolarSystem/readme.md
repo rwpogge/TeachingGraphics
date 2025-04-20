@@ -2,7 +2,7 @@
 
 Plot Solar System orbits and groups of objects (time snapshots).
 
-We try to make these self-contained by using `astroquery` to retrieve data from the Minor Planet Center orbit database (MPCORB) and
+We try to make these self-updating by using `astroquery` to retrieve data from the Minor Planet Center orbit database (MPCORB) and
 the JPL Horizons database.  To keep things simple, we adopt a single-epoch osculating element for a planet or body orbit, and the
 notebooks use a Newton-Raphson root finder to solve Kepler's equations to draw the orbits.
 
