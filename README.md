@@ -23,6 +23,10 @@ to show gen-ed ("Astro101") courses.
 Also has a notebook that uses Gaia and Hipparcos data to plot motions of the stars in the direction of the Big Dipper asterism, and create still frames
 ready to be combined into an animation of that motion using tools like `ffmpeg`.
 
+## Exoplanets
+
+Exoplanet properties plots.  Uses `astroquery` to retrieve the latest data from the NASA Exoplanet Archive (https://exoplanetarchive.ipac.caltech.edu/).
+
 ## Dependencies
 
 Written and tested with Python 3.12 (Anaconda distro), using the following packages.
