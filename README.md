@@ -24,9 +24,13 @@ to show gen-ed ("Astro101") courses.
 Also has a notebook that uses Gaia and Hipparcos data to plot motions of the stars in the direction of the Big Dipper asterism, and create still frames
 ready to be combined into an animation of that motion using tools like `ffmpeg`.
 
-## Exoplanets
+### Exoplanets
 
 Exoplanet properties plots.  Uses `astroquery` to retrieve the latest data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).
+
+### MaxwellBoltzmann
+
+Plots demonstrating the Maxwell-Boltzmann distribution for gasses and Jeans Escape.
 
 ## Dependencies
 
