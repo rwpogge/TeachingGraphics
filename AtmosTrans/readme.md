@@ -18,6 +18,14 @@ Lord, S.D. 1992, NASA Technical Memorandum 103957 (https://ui.adsabs.harvard.edu
 
 And for these files, also cite the Gemini Observatory.
 
+### 0.9-10um sky transmission
+
+```
+ 1.0mm H20, airmass=1.0
+```
+
+URL: www.gemini.edu/sciops/ObsProcess/obsConstraints/atm-models/trans_10_10.dat
+
 ### 6-28um midIR sky transmission
 
 ```
@@ -27,12 +35,3 @@ And for these files, also cite the Gemini Observatory.
  Modification of original spectrum from ATRANS via Tom Geballe
  14Dec99 - converted to units of nm from um Phil Puxley
 ```
-
-### 0.9-10um sky transmission
-
-```
- 1.0mm H20, airmass=1.0
-```
-
-URL: www.gemini.edu/sciops/ObsProcess/obsConstraints/atm-models/trans_10_10.dat
-
