@@ -9,11 +9,25 @@ Uses Jupyter and Python with `matplotlib` for creating the graphics
 
 ## Graphics Collections
 
-### SolarSystem
+### AtmosTrans
 
-Views of the solar system. Uses `astroquery` to retrieve orbit data from the JPL Horizons system for major bodies and the Minor Planet Center orbit
-database (MPCORB) for asteroids, TNOs, Centaurs, and comets.  Code in the notebooks solves Kepler's equations numerically to compute positions and
-full orbits in XYZ ecliptic coordinates to make plots of the appearance of the solar system.
+Near- and Mid-Infrared atmospheric transmission.  Based on ATRAN model calculations, useful for illustrating atmospheric infrared absorption.
+
+### Atmosphere
+
+Plots of atmospheric CO2 and CH4 concentrations, global temperature anomaly, and mean sealevel trends from NOAA and NASA public databases. 
+
+### Exoplanets
+
+Exoplanet properties plots.  Uses `astroquery` to retrieve the latest data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).
+
+### MaxwellBoltzmann
+
+Plots demonstrating the Maxwell-Boltzmann distribution for gasses and Jeans Escape.
+
+### Nuclear Fusion
+
+Plots illustrating principles of nuclear fusion in stars.  Includes plots of the curve of nuclear binding energy, the Gamow peak for hydrogen (Boltzmann vs. tunneling), and solar fusion energy generation (p-p and CNO).
 
 ### ProperMotions
 
@@ -24,17 +38,25 @@ to show gen-ed ("Astro101") courses.
 Also has a notebook that uses Gaia and Hipparcos data to plot motions of the stars in the direction of the Big Dipper asterism, and create still frames
 ready to be combined into an animation of that motion using tools like `ffmpeg`.
 
-### Exoplanets
+### Romer_SpeedOfLight
 
-Exoplanet properties plots.  Uses `astroquery` to retrieve the latest data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).
+Plot the relative positions of the Earth and Jupiter during observations by Ole Roemer of eclipses of Io in the 1670s that demonstrated the finite speed of light.  This is the real data, not the contrived opposition-vs-conjunction plots usually shown in textbooks.
 
-### MaxwellBoltzmann
+### SolarSystem
 
-Plots demonstrating the Maxwell-Boltzmann distribution for gasses and Jeans Escape.
+Views of the solar system. Uses `astroquery` to retrieve orbit data from the JPL Horizons system for major bodies and the Minor Planet Center orbit
+database (MPCORB) for asteroids, TNOs, Centaurs, and comets.  Code in the notebooks solves Kepler's equations numerically to compute positions and
+full orbits in XYZ ecliptic coordinates to make plots of the appearance of the solar system.
 
-### Climate
+### Spaceflight
 
-Plots of atmospheric CO2 and CH4 concentrations, global temperature anomaly, and mean sealevel trends from NOAA and NASA public databases. 
+Graphics related to spaceflight orbits.  First entries are the gravity-assist trajectories of Voyager 1 and 2, and an illustration of the Voyager 2 gravity assist by Saturn.  Used for teaching 2nd year astrophysics, uses the trajectories of the spacecraft from the JPL Horizons database, not idealized examples.
+
+### TimeKeeping
+
+Graphics related to time-keeping and calendars.  First entry is solar vs. clock time and sunrise/sunset times from
+a location on the earth (illustrates the equation of time and relation of local sunrise/sunset times to equinoxes,
+solstices, and ap/perihelion).
 
 ## Dependencies
 
@@ -45,4 +67,5 @@ Written and tested with Python 3.12 (Anaconda distro), using the following packa
  * `astroquery` version 0.4.9
  * `scipy` version 1.13.1 (various numerical solvers)
  * `pandas` version 2.2.2
- * ...
+ * `astroplan` version 0.10.1
+ 
