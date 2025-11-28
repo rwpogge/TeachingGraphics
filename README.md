@@ -21,6 +21,11 @@ Plots of atmospheric CO2 and CH4 concentrations, global temperature anomaly, and
 
 Exoplanet properties plots.  Uses `astroquery` to retrieve the latest data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).
 
+### HumanEye
+
+Plots the photopic (normal) and scotopic (dark-adapted) quantum efficiency
+of the human eye.
+
 ### MaxwellBoltzmann
 
 Plots demonstrating the Maxwell-Boltzmann distribution for gasses and Jeans Escape.
