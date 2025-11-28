@@ -57,6 +57,11 @@ full orbits in XYZ ecliptic coordinates to make plots of the appearance of the s
 
 Graphics related to spaceflight orbits.  First entries are the gravity-assist trajectories of Voyager 1 and 2, and an illustration of the Voyager 2 gravity assist by Saturn.  Used for teaching 2nd year astrophysics, uses the trajectories of the spacecraft from the JPL Horizons database, not idealized examples.
 
+### Stars
+
+Stellar spectral classification, luminosity classification, M-R-L relations, 
+colors, and effective temperatures.
+
 ### TimeKeeping
 
 Graphics related to time-keeping and calendars.  First entry is solar vs. clock time and sunrise/sunset times from
