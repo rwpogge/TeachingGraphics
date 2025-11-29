@@ -62,6 +62,11 @@ Graphics related to spaceflight orbits.  First entries are the gravity-assist tr
 Stellar spectral classification, luminosity classification, M-R-L relations, 
 colors, and effective temperatures.
 
+### Sun
+
+Graphics of solar structure and evolution from the Bahcall & Pinsonneault 2004
+reference solar model
+
 ### TimeKeeping
 
 Graphics related to time-keeping and calendars.  First entry is solar vs. clock time and sunrise/sunset times from
