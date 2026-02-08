@@ -78,7 +78,7 @@ solstices, and ap/perihelion).
 Written and tested with Python 3.12 (Anaconda distro), using the following packages.
  * `matplotlib` version 3.9.2
  * `numpy` version 1.26.4
- * `astropy` version 7.0
+ * `astropy` version 7.1
  * `astroquery` version 0.4.9
  * `scipy` version 1.13.1 (various numerical solvers)
  * `pandas` version 2.2.2
