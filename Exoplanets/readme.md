@@ -2,9 +2,13 @@
 
 Plot exoplanet properties.
 
-These notebooks use `astroquery` to retrieve the most recent data for
+These notebooks use the `astropy` package `astroquery` module to retrieve the most recent data for
 confirmed exoplanets from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).  We include additional data files with basic data for
 selected solar system bodies and main sequence stars.
+
+## astropy Dependency
+
+Due to recent (early 2026) reorganization of the NASA Exoplanet Archive, you must use astropy version 7.1 or later for these notebooks to work.
 
 ## Notebooks
 
